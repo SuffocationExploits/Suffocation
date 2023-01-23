@@ -1,2 +1,3 @@
 # Created Key system
 NEXT UPDATE: A SCRIPTHUB
+VERSION: 1.1
